@@ -115,7 +115,7 @@ Agent: Automatically fetches both pieces of information and responds in natural 
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/shivammourya10/Custom-AI-Agent.git
+git clone  https://github.com/avinashsingh3297/Multi---Tool-AI-Agent.git
 cd Custom_AI_Agent
 
 # Install dependencies
@@ -149,7 +149,7 @@ Enter your problem: stop
 ## In Action 📸
 
 ### Demo Screenshots
-![alt text](screen_code.png) ![alt text](terminal_output.png)
+![alt text](screen_code.png) 
 #### Conversation Flow
 ```
 🤖 AI Agent Demo
@@ -192,10 +192,6 @@ We welcome contributions! Here's how you can help:
 4. **Documentation**: Improve setup guides and usage examples
 5. **Testing**: Add comprehensive test coverage
 
-### Development Setup
-```bash
-# Fork the repository
-git fork https://github.com/shivammourya10/Custom-AI-Agent.git
 
 # Create feature branch
 git checkout -b feature/new-api-integration
@@ -208,11 +204,10 @@ git push origin feature/new-api-integration
 
 ## Support 💬
 
-- 📧 Email: mouryas318@gmail.com
-- X x.com: [Connect](https://x.com/Shivammourya318)
+- 📧 Email: avinashsingh3297@gmail.com
 ---
 
-**Made with ❤️ by Shivam Mourya**
+**Made with ❤️ by Avinash Kumar Singh**
 # Happy Learning💫
 
 > "The future belongs to those who can seamlessly blend human creativity with AI capabilities"
